@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!--
+    parcial 1
+    objetivo    conocer titulos html
+    fecha   3 septiembre 2026
+    autor   Diego Ramirez Chimal
+    -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Diego Ramirez Chimal</h1>  
+    <h2>Diego Ramirez Chimal</h2>
+    <h3>Diego Ramirez Chimal</h3>
+    <h4>Diego Ramirez Chimal</h4>
+    <h5>Diego Ramirez Chimal</h5>
+    <h6>Diego Ramirez Chimal</h6>
+</body>
+</html>   
